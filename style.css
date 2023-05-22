@@ -12,6 +12,60 @@ header {
   word-spacing: 11px;
   letter-spacing: 10px;
   font-size: 30px;
+  font-weight: 700;
   color: #005677;
 
 }
+
+.whitesection {
+
+  background-color: white;
+
+}
+
+.datos {
+
+  background: #C4C4C4;
+  font-family: 'Times New Roman';
+  font-style: normal;
+  word-spacing: 4px;
+  letter-spacing: 7px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #005677;
+
+}
+
+.lista1 {
+
+  font-family: 'Times New Roman';
+  font-style: italic;
+  font-size: 15px;
+  color: #000000;
+  }
+
+
+  .formacion {
+
+    background: #C4C4C4;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    word-spacing: 4px;
+    letter-spacing: 7px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #005677;
+  
+  }
+
+  .primer-estudio {
+
+
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 15px;
+    color: #000000;
+    display: block;
+    
+  }
