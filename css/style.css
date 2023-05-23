@@ -39,7 +39,6 @@ header {
 .lista1 {
 
   font-family: 'Times New Roman';
-  font-style: italic;
   font-size: 15px;
   color: #000000;
   }
@@ -58,14 +57,35 @@ header {
   
   }
 
-  .primer-estudio {
+  .espaciado-txt {
+    display: inline-block;
+    margin-left: 80px; /* Ajusta el valor según tus necesidades */
+  }
 
 
+  .trabajo {
 
+    background: #C4C4C4;
     font-family: 'Times New Roman';
     font-style: normal;
-    font-size: 15px;
-    color: #000000;
-    display: block;
-    
+    word-spacing: 4px;
+    letter-spacing: 7px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #005677;
+  
+  }
+
+  .footer {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #005677;
+  }
+
+  .footer-el {
+
+    margin: 5px;
   }
